@@ -1,4 +1,5 @@
 KrishiSense – Smart IoT Farm Monitoring Dashboard 🌱
+
 📌 Project Overview
 
 KrishiSense is a Smart IoT Farm Monitoring Dashboard designed to monitor agricultural field conditions in real time. The system displays important farming parameters like soil moisture, temperature, humidity, rainfall, wind speed, soil pH, and EC levels through an interactive dashboard.
@@ -96,9 +97,10 @@ SMS/Alert Notifications
 <img width="1913" height="1012" alt="image" src="https://github.com/user-attachments/assets/de0ac85b-0fe2-4590-855b-67c282fa6371" />
 
 
+
 👨‍💻 Author
 
-Jemini Verma
+**Jemini Verma**
 IT Student | Aspiring Full Stack Developer | IoT Enthusiast
 
 📄 License
